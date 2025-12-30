@@ -1,0 +1,10 @@
+2025-12-30 10:15:23 INFO User logged in: user123
+2025-12-30 10:16:45 ERROR Database connection failed
+2025-12-30 10:17:02 WARNING Slow query detected: 2.5s
+2025-12-30 10:18:10 INFO User logged out: user123
+2025-12-30 10:19:33 ERROR File not found: config.txt
+2025-12-30 10:20:01 INFO User logged in: user456
+2025-12-30 10:21:15 ERROR Memory limit exceeded
+2025-12-30 10:22:40 WARNING Cache miss: product_123
+2025-12-30 10:23:55 INFO Request processed: /api/users
+2025-12-30 10:24:12 ERROR Invalid token provided
